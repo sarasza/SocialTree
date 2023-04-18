@@ -26,14 +26,12 @@ body{
 
 #perfil img{
     border-radius: 50%;
-    border:3px solid #BB99DD;
+    border:4px solid #BB99DD;
 }
 
 h1{
     font-weight: lighter;
     font-size: 16px;
-    color: #BB99DD;
-    text-decoration: none;
 }
 
 nav, div{
